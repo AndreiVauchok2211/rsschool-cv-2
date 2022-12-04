@@ -2,8 +2,6 @@
 
 ## **Contact information**:
 
----
-
 - **Location**: Minsk, Belarus
 - **Phone**: +375297429889
 - **E-mail**: vauchokandrei@gmail.com
@@ -14,20 +12,16 @@
 
 ### **Summary**
 
----
-
 _Hello! My name is Andrey, after graduating from university I worked professionally in the field of education and sports, professionally played football. For more than 5 years I worked as a teacher in a college, at the same time I was coaching with youth and amateur teams. Currently I work as a supply specialist. About six months I study website layout, HTML5, CSS and Javascript on my own - I hope to acquire the relevant knowledge, skills and abilities for employment as a junior front-end developer. I wish you all good luck!)_
 
 ### **Skilss**
 
----
-
-- _Java_(Basic)
-- _JavaScript_(Basic)
-- _Git/GitHub_(Basic)
-- _HTML5_(Basic)
-- _CSS3/SASS(scss)_(Basic)
-- _VS Code, IntelliJ IDEA_(Basic)
+- _Java_ (Basic)
+- _JavaScript_ (Basic)
+- _Git/GitHub_ (Basic)
+- _HTML5_ (Basic)
+- _CSS3/SASS(scss)_ (Basic)
+- _VS Code, IntelliJ IDEA_ (Basic)
 
 ### **Code example**
 
@@ -65,7 +59,6 @@ function nthFibo(n) {
   - _[Faculty of Physical Culture and Sports](https://vsu.by/en/university/faculties/faculty-of-physical-culture-and-sports.html)_
 - **[Belarusian State University of Physical Education, Minsk](http://ippkbgufk.edu.by/)**
   - _[Institute for Advanced Studies and Retraining of Managers and Specialists of Physical Culture, Sports and Tourism](http://ippkbgufk.edu.by/)_
-  ***
 
 ---
 
