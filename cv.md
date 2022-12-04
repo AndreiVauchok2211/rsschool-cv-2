@@ -1,12 +1,10 @@
 # **Andrei Vauchok**
 
-====
-
 ## **Contact information**:
 
 ---
 
-- **Location**:
+- **Location**: Minsk, Belarus
 - **Phone**: +375297429889
 - **E-mail**: vauchokandrei@gmail.com
 - **LinkedIn**: [Andrei Vauchok](https://www.linkedin.com/in/andrei-vauchok-961913115/)
@@ -18,36 +16,48 @@
 
 ---
 
-_"Hello! My name is Andrey, after graduating from university I worked professionally in the field of education and sports, professionally played football. For more than 5 years I worked as a teacher in a college, at the same time I was coaching with youth and amateur teams. Currently I work as a supply specialist. About six months I study website layout, HTML5, CSS and Javascript on my own - I hope to acquire the relevant knowledge, skills and abilities for employment as a junior front-end developer. I wish you all good luck!)"_
+_Hello! My name is Andrey, after graduating from university I worked professionally in the field of education and sports, professionally played football. For more than 5 years I worked as a teacher in a college, at the same time I was coaching with youth and amateur teams. Currently I work as a supply specialist. About six months I study website layout, HTML5, CSS and Javascript on my own - I hope to acquire the relevant knowledge, skills and abilities for employment as a junior front-end developer. I wish you all good luck!)_
 
 ### **Skilss**
 
 ---
 
-- Basic knowledge of **_Java_**
-- Basic knowledge of **_JavaScript_**
-- Basic knowledge of **_Git_**
-- Basic knowledge of **_HTML5_**
-- Basic knowledge of **_CSS/SCSS_**
+- _Java_(Basic)
+- _JavaScript_(Basic)
+- _Git/GitHub_(Basic)
+- _HTML5_(Basic)
+- _CSS3/SASS(scss)_(Basic)
+- _VS Code, IntelliJ IDEA_(Basic)
 
 ### **Code example**
 
 ---
 
-```
-const transactions = [
-  300, 250, -500, -750, -180, 50, 140, -200, -300, 1400, 5000,
-];
+**Return the n-th number in the Fibonacci Sequence KATA from CODEWARS**:
 
-const totalDeposited = transactions
-  .filter(trans => trans > 0)
-  .reduce((accum, trans) => accum + trans, 0);
-console.log(totalDeposited);
+_"Write a function that when given a number (n) returns the n-th number in the Fibonacci Sequence."_
+
+```
+function nthFibo(n) {
+  let [previous, current] = [0, 1];
+  for (let i = 1; i < n; i++) {
+    [previous, current] = [current, previous + current];
+  }
+  return previous;
+}
 ```
 
 ---
 
-## **Education**
+### **Courses**
+
+- HTML: Perfect for Beginners on the [code-basics](https://code-basics.com/ru/languages/html) (completed)
+- CSS: Free Online Learning for Beginners on the [code-basics](https://code-basics.com/ru/languages/css) (completed)
+- Modern JavaScript - From Zero to Junior Specialist on the [udemy](https://www.udemy.com/course/javascript-zero-to-junior-developer/) (in progress)
+- Complete course Android + Java from scratch [udemy](https://www.udemy.com/course/android_sumin/) (in progress)
+- RS Schools Course «JavaScript/Front-end» (in progress)
+
+### **Education**
 
 ---
 
@@ -57,20 +67,14 @@ console.log(totalDeposited);
   - _[Institute for Advanced Studies and Retraining of Managers and Specialists of Physical Culture, Sports and Tourism](http://ippkbgufk.edu.by/)_
   ***
 
-## **Experience**
-
-- More than 5 years worked as a teacher of physical culture, also showed himself in other areas. I am currently working as a Purchasing Specialist.
-
 ---
 
-## **Languages**
+### **Languages**
 
-- _Belarusian_
-- _Russian_
-- _English_
-
-### **English**
-
-- A2/B1
+- Russian - Native
+- Belarusian - Native
+- Ukrainian - B1
+- English - A2
+- Spanish - A1
 
 ---
